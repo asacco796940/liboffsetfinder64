@@ -6,4 +6,9 @@ This fork contains all the changes I made to compile, although I don't remember 
 
 I have not tested it on any other machine than my own, so hopefully it works on yours.
 
-Assuming it does, you should just be able to ```make``` and ```make install```
+Assuming it does, you should just be able to:
+  ./autogen.sh
+  make
+  make install
+
+Might require other libraries to be installed like libgeneral, not quite sure.
