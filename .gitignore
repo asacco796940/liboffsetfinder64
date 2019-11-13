@@ -27,3 +27,4 @@ test-driver
 Build
 *.xcworkspace
 xcuserdata
+.DS_Store
